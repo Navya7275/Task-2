@@ -19,7 +19,7 @@ Ensure you have Python 3 installed on your system. No external dependencies are 
 ## 🛠 Usage
 1. Run the program:
    ```sh
-   python text_encryption.py
+   python task2.py
    ```
 2. Choose an encryption method:
    - Enter `1` for 🔢 Caesar Cipher
